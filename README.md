@@ -1,79 +1,120 @@
-# 🚀 Placement-Prep: Your Ultimate Guide to Conquering Technical Placements
+# 1. Quant Prep Roadmap
 
-Welcome to **Placement-Prep**, a comprehensive repository designed to be your one-stop solution for acing technical interviews and online assessments. This repository contains a curated collection of resources, practice problems, and learning materials covering all essential topics for placements.
+## Phase 1: Foundational Theory
+- Probability & Statistics  
+  • Harvard Stat 110 (Joe Blitzstein) – https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo  
+  • MIT 6.041/6.431 – https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/  
+  • A First Course in Probability (Sheldon Ross) – https://www.amazon.com/dp/032179477X  
+- Linear Algebra  
+  • 3Blue1Brown “Essence of Linear Algebra” – https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6  
+  • MIT 18.06 (Gilbert Strang) – https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/  
+  • Khan Academy Linear Algebra – https://www.khanacademy.org/math/linear-algebra  
+- Algorithms Fundamentals  
+  • Competitive Programmer’s Handbook (Antti Laaksonen) – https://cses.fi/book/book.pdf  
+  • CP-Algorithms – https://cp-algorithms.com/  
+  • MIT 6.006 (Introduction to Algorithms) – https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/  
 
----
+## Phase 2: Parallelized Practice
+- Math & Logic Problems  
+  • Brainstellar – https://brainstellar.com/  
+  • Gurmeet.net Puzzles – https://gurmeet.net/puzzles/  
+  • QuantGuide – https://www.quantguide.io/  
+  • Ted-Ed Riddles – https://www.youtube.com/playlist?list=PLJicmE8fK0EiG6E7U32QSRYD4MRYk1V6y  
+- Competitive Programming  
+  • InterviewBit – https://www.interviewbit.com/courses/programming/  
+  • NeetCode 150 – https://neetcode.io/practice  
+  • Codeforces – https://codeforces.com/  
+  • AtCoder – https://atcoder.jp/  
+  • CSES Problem Set – https://cses.fi/problemset/  
+- Mental Math  
+  • Zetamac Arithmetic – https://arithmetic.zetamac.com/  
+  • Tradermath – https://tradermath.org/  
+  • Math Tricks (YouTube playlist) – https://www.youtube.com/playlist?list=PLDcnymzs18LVXfO_x0Ei0R24qDbVtyy66  
+- Market Making & Trading Games  
+  • Optiver Game – https://www.optiver.com/trading-careers/market-making-game/  
+  • Jane Street Open Book – https://www.janestreet.com/puzzles  
 
-## 🌟 About This Repository
-
-This repository is a structured collection of topic-wise folders, each containing well-explained theory, commonly asked questions (and their solutions), and links to the best learning resources. Whether you're a beginner just starting your preparation or an expert looking to revise key concepts, this guide has something for everyone.
-
-The goal is to provide a clear and structured path to mastering the essential skills required to land your dream job in the tech industry.
-
----
-
-## 📚 Table of Contents
-
-The repository is organized into the following key sections:
-
-| #   | Topic                                     | Description                                                                                             |
-| --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1   | **Aptitude & Fast Math** | Techniques for high-speed calculations, Vedic Maths, and core aptitude concepts.                        |
-| 2   | **Bit Manipulation** | Essential bitwise operators, techniques, and common problems.                                           |
-| 3   | **Competitive Programming** | A collection of important CP questions and concepts from various platforms.                             |
-| 4   | **Computer Networks** | Core concepts of networking, protocols, and frequently asked interview questions.                       |
-| 5   | **Databases (DBMS)** | SQL, NoSQL, database design, normalization, and standard interview questions.                           |
-| 6   | **Data Structures & Algorithms (DSA)** | In-depth coverage of all major data structures and algorithms with practice problems.                   |
-| 7   | **Object-Oriented Programming (OOPs)** | Core principles of OOPs (Inheritance, Polymorphism, etc.) and their practical applications.             |
-| 8   | **Operating Systems** | Fundamental concepts of OS, processes, threads, memory management, and interview questions.             |
-| 9   | **Puzzles** | A collection of logical and analytical puzzles frequently asked in interviews to test problem-solving.  |
-| 10  | **System Design** | An introduction to system design principles, with examples of common design problems.                   |
-
----
-
-## 💡 How to Use This Repository
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/tusharmalpani2005/Placement-Prep.git](https://github.com/tusharmalpani2005/Placement-Prep.git)
-    ```
-
-2.  **Navigate to a Topic:**
-    Choose a topic from the table of contents that you want to study. Each folder is self-contained with:
-    * A `README.md` file explaining the core concepts.
-    * Practice problems with solutions.
-    * Links to external resources for deeper understanding.
-
-3.  **Start with the Basics:**
-    If you are a beginner, it is recommended to start with the foundational topics:
-    * Data Structures & Algorithms (DSA)
-    * Object-Oriented Programming (OOPs)
-    * Databases (DBMS)
-    * Operating Systems
-
-4.  **Practice Consistently:**
-    The key to success is consistent practice. Solve the problems in each section and try to understand the underlying patterns.
+## Phase 3: Specializations (Optional)
+- Machine Learning  
+  • Andrew Ng ML (Coursera) – https://www.coursera.org/learn/machine-learning  
+  • fast.ai Practical Deep Learning – https://course.fast.ai/  
+- Finance  
+  • John C. Hull (Derivatives) – https://www.amazon.com/dp/013447208X  
+  • Sheldon Natenberg – https://www.amazon.com/dp/155738486X  
+  • Investopedia Options – https://www.investopedia.com/options-4427785  
+  
 
 ---
 
-## 🤝 Contributing
+# 2. CP → FAANG Roadmap
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Phase 0: Setup
+- KACTL – https://github.com/kth-competitive-programming/kactl  
+- StopStalk – https://www.stopstalk.com/  
+- VS Code CP plugins – https://marketplace.visualstudio.com/items?itemName=ahmedkhalf.cpptools  
 
-If you have a suggestion that would make this repository better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+## Phase 1 (Months 1–2)
+- CSES Sorting & Searching – https://cses.fi/problemset/  
+- Codeforces 1100–1500 – https://codeforces.com/problemset/tags/1100  
+- AtCoder ABC – https://atcoder.jp/contests/abc  
+- LeetCode Two Pointers playlist – https://www.youtube.com/playlist?list=PLot-Xpze53ldBT_Th3H4GFvWmlp6dtJfA  
 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+## Phase 2 (Months 3–5)
+- Segment Tree – https://cp-algorithms.com/data_structures/segment_tree.html  
+- Fenwick Tree – https://cp-algorithms.com/data_structures/fenwick.html  
+- DSU – https://cp-algorithms.com/data_structures/disjoint_set_union.html  
+- CSES Graph Algorithms – https://cses.fi/problemset/list/  
+- CF 1500–1800 – https://codeforces.com/problemset/tags/1500  
+
+## Phase 3 (Months 6–9)
+- LCA & HLD – https://cp-algorithms.com/graph/lca.html  
+- Euler Tour – https://cp-algorithms.com/graph/euler_tour.html  
+- String Algorithms (KMP, Z) – https://cp-algorithms.com/string/  
+- Mo’s Algorithm – https://cp-algorithms.com/data_structures/sqrt_decomposition.html  
+- AtCoder ARC – https://atcoder.jp/contests/arc  
+- Errichto CP playlist – https://www.youtube.com/playlist?list=PLujxSBD-JXgnMd7fWqRSKMlJt6K4jOCxG  
+
+## Phase 4 (Months 10–12)
+- Persistent DS – https://cp-algorithms.com/data_structures/persistent_segment_tree.html  
+- Max Flow (Dinic) – https://cp-algorithms.com/graph/dinic.html  
+- FFT – https://cp-algorithms.com/algebra/fft.html  
+- Google Code Jam – https://codingcompetitions.withgoogle.com/codejam  
+- William Lin streams – https://www.youtube.com/c/WilliamLin168  
+
+## Parallel Interview Track
+- NeetCode 150 – https://neetcode.io/practice  
+- LeetCode Hard playlist – https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm  
+- Grokking System Design – https://www.educative.io/courses/grokking-the-system-design-interview  
+- Pramp – https://www.pramp.com/  
+- Interviewing.io – https://interviewing.io/  
 
 ---
 
-## 🙏 Acknowledgements
+# 3. Aptitude Prep Roadmap
 
-A huge thank you to the countless developers, educators, and platforms who have shared their knowledge online. This repository is a collection of information from various sources, and credit goes to all the original creators.
+## Phase 1: Core Calculation Speed
+- Zetamac Arithmetic – https://arithmetic.zetamac.com/  
+- Math-Drills.com – https://math-drills.com/  
+- XtraMath – https://xtramath.org/  
+- Khan Academy Arithmetic – https://www.khanacademy.org/math/arithmetic  
 
----
+## Phase 2: Aptitude Topics
+- Placement Preparation – https://www.placementpreparation.io/  
+- IndiaBIX – https://www.indiabix.com/  
+- GeeksforGeeks Aptitude – https://www.geeksforgeeks.org/aptitude/  
+- PrepInsta – https://prepinsta.com/  
+- Hitbullseye Quant – https://www.hitbullseye.com/Quant  
+- Cracku SpeedMath – https://cracku.in/speedmath  
 
-> **Final Thought:** Aptitude and technical skills are like learning a sport. Consistent, deliberate practice is the only way to get better. Trust the process, track your progress, and you will dominate your placements. Good luck!
+## Phase 3: Advanced Reasoning
+- IndiaBIX Number Series – https://www.indiabix.com/logical-reasoning/number-series/  
+- Smartkeeda Series – https://www.smartkeeda.com/quantitative-aptitude/number-series-questions  
+- Brainstellar Logical – https://brainstellar.com/logical  
+- Testbook Reasoning – https://testbook.com/reasoning  
+
+## Phase 4: Test Simulation
+- Testbook Mock Tests – https://testbook.com/online-test-series  
+- Youth4work Placement – https://prep.youth4work.com/  
+- AMCAT – https://www.myamcat.com/  
+- CoCubes – https://www.cocubes.com/  
+- PrepInsta Company Mocks – https://prepinsta.com/company-specific  
