@@ -16,8 +16,7 @@ Before tackling complex problems, your basic arithmetic must be instant. The goa
     1.  [**DrillYourSkill**](https://drillyourskill.com/) – The best for targeted practice. Create custom drills for multiplication, fractions, or whatever you're weak at. Use the leaderboard to compete.
     2.  [**Zetamac Arithmetic**](https://arithmetic.zetamac.com/) – High-pressure, timed drills. A fantastic benchmark for your raw calculation speed.
     3.  [**Cracku - Speed Maths**](https://cracku.in/speedmath) – Specifically designed for Indian competitive exams. Great for CAT/placement style questions.
-    4.  [**Mathigon - Mental Math**](https://mathigon.org/mental-math) – A modern, slick interface for practicing core skills.
-    5.  **Mobile Apps:** Search for "Math Tricks" or "Mental Math" on the App Store/Play Store for on-the-go practice.
+    4.  **Mobile Apps:** Search for "Math Tricks" or "Mental Math" on the App Store/Play Store for on-the-go practice.
 
 #### **TECHNIQUES (The "How-To")**
 
@@ -58,11 +57,11 @@ Now apply your speed to actual aptitude topics. The key is to learn the standard
 #### **LEARNING RESOURCES**
 
 * **Websites (Free):**
-    * [**Indiabix**](https://www.indiabix.com/quantitative-aptitude/questions-and-answers/) – The classic. Great for volume, but explanations can be basic. Use it for practice.
-    * [**GeeksforGeeks Aptitude**](https://www.geeksforgeeks.org/quantitative-aptitude-2/) – Well-structured, topic-wise articles and questions.
-    * [**Hitbullseye**](https://www.hitbullseye.com/Aptitude-Home.php) – Excellent for topic-wise concept summaries and short practice tests.
+    * [**Indiabix**](https://www.indiabix.com) – The classic. Great for volume, but explanations can be basic. Use it for practice.
+    * [**GeeksforGeeks Aptitude**](https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/) – Well-structured, topic-wise articles and questions.
+    * [**Hitbullseye**](https://www.hitbullseye.com/Quant) – Excellent for topic-wise concept summaries and short practice tests.
 * **YouTube Channels (Visual & Intuitive):**
-    * [**TalentSprint Aptitude Prep**](https://www.youtube.com/playlist?list=PLB5A7955160D054C5) – A well-regarded, comprehensive playlist covering all major topics.
+    * [**TalentSprint Aptitude Prep**](https://www.youtube.com/@TalentSprintAptitudePrep) – A well-regarded, comprehensive playlist covering all major topics.
     * [**Feel Free to Learn**](https://www.youtube.com/@FeelFreetoLearn) – Clear, concise videos with good shortcuts.
     * **Search for topic-specific videos:** For example, "Time and Work tricks" or "Permutation and Combination for placements".
 
@@ -84,7 +83,7 @@ This is where you move from formula-based questions to logical deduction. These 
     5.  **$n^2$ or $n^3$ Series:** Based on squares or cubes, often with a variation ($n^2-1$, $n^2+1$, $n^2-n$, etc.). Example: $0, 3, 8, 15...$ is $n^2-1$.
     6.  **Fibonacci Style:** ($1, 1, 2, 3, 5, 8...$) or a variation where a term is the sum of the previous two/three terms.
 * **Practice Platforms:**
-    * [**Indiabix - Number Series**](https://www.indiabix.com/verbal-reasoning/number-series/)
+    * [**Indiabix - Number Series**](https://www.indiabix.com/logical-reasoning/number-series/)
     * [**Fibonicci**](https://www.fibonicci.com/sequences/) - Excellent for practicing very tricky and complex sequences.
 
 #### **👁️ Visual & Logical Reasoning**
