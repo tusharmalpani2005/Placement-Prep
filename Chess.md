@@ -100,21 +100,4 @@ Bringing your hobby into the physical world is a rewarding experience.
 
 ---
 
-### **A Simple Hobbyist's Weekly Plan (Suggestion)**
-
-This is not a strict regimen, just a gentle guide to enjoying your new hobby consistently.
-
-* **Daily (15-20 min):**
-    * Play one or two 10-minute "Rapid" games on Lichess or Chess.com.
-    * Do 5-10 chess puzzles.
-* **A Few Times a Week (20-30 min):**
-    * Watch a chess YouTube video that interests you.
-    * Do a lesson on Lichess or Chess.com.
-* **Once a Weekend (45-60 min):**
-    * Play a longer 30-minute game.
-    * Use the computer analysis tool (on Lichess/Chess.com) to review one of your losses. Try to understand your biggest mistake without judgment.
-    * Watch a recap of a famous game on Agadmator's channel.
-
----
-
 > **Final Thought:** The most important rule is to have fun. Chess is a vast ocean; don't feel pressured to learn everything at once. Enjoy the small victories, learn from your losses, and appreciate the beauty of a well-played game. Welcome to the club!
