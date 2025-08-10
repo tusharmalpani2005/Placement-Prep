@@ -11,6 +11,7 @@ Before tackling complex problems, your basic arithmetic must be instant. The goa
 * **Goal:** Achieve subconscious speed in addition, subtraction, multiplication, division, squares, cubes, percentages, and fractions.
 
 #### **🧠 Daily Drills (15-20 min)**
+
 * **Websites & Apps:**
     1.  [**DrillYourSkill**](https://drillyourskill.com/) – The best for targeted practice. Create custom drills for multiplication, fractions, or whatever you're weak at. Use the leaderboard to compete.
     2.  [**Zetamac Arithmetic**](https://arithmetic.zetamac.com/) – High-pressure, timed drills. A fantastic benchmark for your raw calculation speed.
@@ -18,20 +19,21 @@ Before tackling complex problems, your basic arithmetic must be instant. The goa
     4.  [**Mathigon - Mental Math**](https://mathigon.org/mental-math) – A modern, slick interface for practicing core skills.
     5.  **Mobile Apps:** Search for "Math Tricks" or "Mental Math" on the App Store/Play Store for on-the-go practice.
 
-#### ** TECHNIQUES (The "How-To")**
+#### **TECHNIQUES (The "How-To")**
+
 * **Vedic Mathematics:** This is a game-changer for speed. You don't need to master all 16 sutras. Focus on these high-impact ones:
     * **Multiplication:**
-        * Criss-Cross Method (Urdhva Tiryagbhyam) for any 2x2 or 3x3 digit multiplication.
-        * Base Method (Nikhilam) for multiplying numbers close to 100, 1000, etc. (e.g., 96 x 97 or 104 x 105).
+        * Criss-Cross Method (Urdhva Tiryagbhyam) for any $2 \times 2$ or $3 \times 3$ digit multiplication.
+        * Base Method (Nikhilam) for multiplying numbers close to 100, 1000, etc. (e.g., $96 \times 97$ or $104 \times 105$).
         * Multiplying any number by 11, 12, 5, 25.
     * **Squaring:**
         * Squaring numbers ending in 5.
-        * Using the `(a+b)²` or `(a-b)²` formula for numbers like 49² or 52².
+        * Using the $(a+b)^2$ or $(a-b)^2$ formula for numbers like $49^2$ or $52^2$.
 * **Memorization (Non-Negotiable):**
-    * **Tables:** Up to 25 x 25.
+    * **Tables:** Up to $25 \times 25$.
     * **Squares:** Up to 30.
     * **Cubes:** Up to 20.
-    * **Fraction to Percentage Conversions:** `1/2` to `1/20`. This is vital for Data Interpretation (DI) and Profit & Loss.
+    * **Fraction to Percentage Conversions:** $1/2$ to $1/20$. This is vital for Data Interpretation (DI) and Profit & Loss.
 
 ---
 
@@ -42,6 +44,7 @@ Now apply your speed to actual aptitude topics. The key is to learn the standard
 * **Goal:** Understand the theory and common problem types for all major quant topics.
 
 #### **📚 Core Topics & Where to Learn From**
+
 1.  **Numbers, HCF & LCM:** Understanding number properties, divisibility, and prime factorization.
 2.  **Percentages, Profit & Loss:** The backbone of DI and many word problems.
 3.  **Ratio, Proportion & Variation:** Essential for problems involving mixtures, partnerships, etc.
@@ -53,6 +56,7 @@ Now apply your speed to actual aptitude topics. The key is to learn the standard
 9.  **Geometry & Mensuration:** Know the formulas for standard 2D and 3D shapes.
 
 #### **LEARNING RESOURCES**
+
 * **Websites (Free):**
     * [**Indiabix**](https://www.indiabix.com/quantitative-aptitude/questions-and-answers/) – The classic. Great for volume, but explanations can be basic. Use it for practice.
     * [**GeeksforGeeks Aptitude**](https://www.geeksforgeeks.org/quantitative-aptitude-2/) – Well-structured, topic-wise articles and questions.
@@ -71,18 +75,20 @@ This is where you move from formula-based questions to logical deduction. These 
 * **Goal:** Develop the intuition to quickly identify the underlying logic in a sequence or visual pattern.
 
 #### **🔢 Number & Letter Series**
+
 * **Common Patterns to Look For:**
-    1.  **Arithmetic Progression (AP):** Constant difference `(2, 5, 8, 11...)`.
-    2.  **Geometric Progression (GP):** Constant ratio `(3, 9, 27, 81...)`.
-    3.  **Mixed Series:** Alternating AP/GP or two separate series intertwined `(2, 10, 5, 12, 8, 14...)`.
-    4.  **Difference/Double Difference Series:** The difference between consecutive terms forms an AP `(2, 10, 24, 44...)` -> differences are `8, 14, 20` (an AP).
-    5.  **n² or n³ Series:** Based on squares or cubes, often with a variation `(n²-1, n²+1, n²-n, etc.)`. Example: `0, 3, 8, 15...` is `n²-1`.
-    6.  **Fibonacci Style:** `(1, 1, 2, 3, 5, 8...)` or a variation where a term is the sum of the previous two/three terms.
+    1.  **Arithmetic Progression (AP):** Constant difference (e.g., $2, 5, 8, 11...$).
+    2.  **Geometric Progression (GP):** Constant ratio (e.g., $3, 9, 27, 81...$).
+    3.  **Mixed Series:** Alternating AP/GP or two separate series intertwined (e.g., $2, 10, 5, 12, 8, 14...$).
+    4.  **Difference/Double Difference Series:** The difference between consecutive terms forms an AP (e.g., $2, 10, 24, 44...$ -> differences are $8, 14, 20$, which is an AP).
+    5.  **$n^2$ or $n^3$ Series:** Based on squares or cubes, often with a variation ($n^2-1$, $n^2+1$, $n^2-n$, etc.). Example: $0, 3, 8, 15...$ is $n^2-1$.
+    6.  **Fibonacci Style:** ($1, 1, 2, 3, 5, 8...$) or a variation where a term is the sum of the previous two/three terms.
 * **Practice Platforms:**
     * [**Indiabix - Number Series**](https://www.indiabix.com/verbal-reasoning/number-series/)
     * [**Fibonicci**](https://www.fibonicci.com/sequences/) - Excellent for practicing very tricky and complex sequences.
 
 #### **👁️ Visual & Logical Reasoning**
+
 * **Problem Types:**
     * **Find the Next Figure:** A sequence of shapes where you have to predict the next one based on rotation, movement, addition/deletion of elements.
     * **Find the Odd One Out:** A set of figures where one does not follow the common pattern.
@@ -102,27 +108,13 @@ Knowledge is useless without performance under pressure.
 * **Goal:** Simulate the time constraints and interface of a real Online Assessment.
 
 #### **Mock Test Strategy**
+
 1.  **Platform-Specific Mocks:** Use platforms like [**PrepInsta**](https://prepinsta.com/), [**AMCAT**](https://www.myamcat.com/), or [**CoCubes**](https://www.cocubes.com/) if you know the test platform your target companies use.
 2.  **Topic-Wise Timed Quizzes:** Use [**Lofoya**](https://lofoya.com/) or the timed quiz feature on GeeksforGeeks to build speed in specific areas.
 3.  **Full-Length Mocks:** At least once a week, take a full-length mock test from any major test-prep provider to build stamina and time management skills.
 4.  **Analysis is Key:** After every mock, spend more time analyzing your mistakes than you spent taking the test.
     * **Why did I get it wrong?** (Calculation error? Conceptual gap? Misread the question?)
     * **Why did I spend so much time?** (Knew the method but was slow? Stuck on a trick question?)
-
----
-
-### **A Simple Hobbyist's Weekly Plan (Suggestion)**
-
-### **A Placement Aspirant's Weekly Training Plan**
-
-* **Daily (30-40 min):**
-    * **15 min:** High-speed drills on Zetamac or DrillYourSkill. Focus on one calculation type per day (e.g., Monday: 2x2 multiplication, Tuesday: Percentages).
-    * **20 min:** Pick one core aptitude topic. Watch a concept video and solve 10-15 standard questions from Indiabix/GFG.
-* **3-4 Times a Week (20 min):**
-    * **20 min:** Practice pattern recognition. Do a mix of 10 number series and 10 visual reasoning questions.
-* **Weekend (60-90 min):**
-    * **60 min:** Take a full, timed sectional or mock test.
-    * **30 min:** Deeply analyze your performance, note down mistakes and slow areas in a journal.
 
 ---
 
