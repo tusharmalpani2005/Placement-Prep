@@ -156,3 +156,5 @@ Do not neglect this. CP skills help, but interviews are a different format.
 ---
 
 > This is your battle plan. The goal is audacious, but your foundation is strong. The key differentiators will be your consistency and the rigor of your upsolving. Good luck.
+
+same for this
