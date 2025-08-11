@@ -2,13 +2,6 @@
 
 This comprehensive collection covers **272+ problems** across Binary Search, Two Pointers, and Sorting techniques, organized by difficulty from beginner to advanced level. Perfect for mastering algorithmic problem-solving skills.
 
-## Table of Contents
-1. [Binary Search Problems (91 Problems)](#binary-search)
-2. [Two Pointers Problems (82 Problems)](#two-pointers) 
-3. [Sorting Problems (99 Problems)](#sorting)
-
----
-
 ## Binary Search (91 Problems)
 
 Binary search is a fundamental algorithm technique that reduces search space by half in each iteration. Essential for optimization problems and searching in sorted data structures.
