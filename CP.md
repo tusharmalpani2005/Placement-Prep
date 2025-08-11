@@ -8,7 +8,7 @@
 ## Phase 1 (Months 1–2)
 - CSES Sorting & Searching – https://cses.fi/problemset/  
 - CF 1100–1500 Tag Explorer – https://codeforces.com/problemset/tags/1100  
-- AtCoder ABC – https://atcoder.jp/contests/abc  
+- AtCoder ABC – https://atcoder.jp/home 
 - LeetCode Two Pointers (YouTube) – https://www.youtube.com/playlist?list=PLot-Xpze53ldBT_Th3H4GFvWmlp6dtJfA  
 - GeeksforGeeks DSA Basics – https://www.geeksforgeeks.org/fundamentals-of-algorithms/  
 
